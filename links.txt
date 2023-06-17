@@ -7,3 +7,6 @@ https://www.offsec.com/courses-and-certifications/
 
 # DU an tuong lai
 https://github.com/vtvhai/gochu.vn
+
+# Apple silicon ARM kali linux??
+https://www.kali.org/get-kali/#kali-installer-images
